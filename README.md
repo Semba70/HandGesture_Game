@@ -12,7 +12,7 @@ Cuda 11.3;
 -----------------------------
 ### ゲームプレイ画像
 
-ディレクトリのmovie.mp4がプレイ動画
+ディレクトリの movie.mp4 がプレイ動画
  
 <img src="./introduction.jpg" width="500px">
 
