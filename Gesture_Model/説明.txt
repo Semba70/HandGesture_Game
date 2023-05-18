@@ -1,0 +1,3 @@
+mnist_finetuning > mnistのファインチューニングモデル用のモデル作成 (作成モデルはフォルダーmnist_modelの中)
+learn_model      > mnistのモデルを使って手のモデル作り (作成モデルはフォルダーmodelの中)
+play             > learn_modelのモデルを使ってプレイ
